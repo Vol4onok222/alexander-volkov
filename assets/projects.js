@@ -2,64 +2,65 @@ export default [
   {
     title: "Sharkfolio",
     description:
-      "Сайт-портфолио акул. Во время хакатона MLH он был построен с использованием React, Tailwind CSS и GSAP.",
+      "A portfolio website of sharks. During the MLH hackathon, it was built with React, Tailwind CSS, and GSAP.",
     image:
       "https://user-images.githubusercontent.com/54346106/193443537-deab1b57-450d-4a1b-885e-0bb417b09882.png",
-    github: "https://github.com/Valexr/harkfolio",
+    github: "https://github.com/rakeshsangem/harkfolio",
     live: "https://sharkfolio.vercel.app/",
-  },
-  {
-    title: "Notty",
-    description:
-      "Аналогичная версия тематики - Заметок. Сделанная под определенный ключ и оптимизорованную переадресацию DRT процессоров.",
-    image:
-      "https://ibb.co/L5SGdYf",
-    github: "https://github.com/Valexr/Notty",
-    live: "https://notty.surge.sh/",
-  },
-  {
-    title: "Портфолио USA",
-    description:
-      "Веб-сайт с портфолио, созданный с использованием HTML, CSS и JavaScript. Я сделал опнесорс во время хактоберфеста",
-    image:
-      "https://ibb.co/6WtnX1K",
-    github: "https://github.com/Valexr/portflio",
-    live: "http://alexaf9d.beget.tech/shablon/usa/index.html",
   },
   {
     title: "Bankist",
     description:
-      "Bankist — это онлайн-платформа, где пользователь может получить доступ к реквизитам своего банковского счета, перевести деньги и многое другое.",
+      "Bankist is an online platform where user can access their bank account details, transfer money and much more.",
     image:
-      "https://user-images.githubusercontent.com/107752425/205921327-16fa9da1-d602-4b18-8cce-6f80c4585fd2.png",
-    github: "https://github.com/bankist-application",
+      "https://ibb.co/BCVcqYV",
+    github: "https://github.com/rakeshsangem/bankist-application",
     live: "https://bankist-application.vercel.app",
   },
   {
-    title: "Slidy",
+    title: "Portfolio",
     description:
-      "Динамичная версия Slidy - Сделанная исключетельно под ключ. С использованием JavaScript и С#",
+      "A portflio website of me buit using HTML, CSS, and JavaScript. I made to opnesource during hacktoberfest",
+    image:
+      "https://proprikol.ru/wp-content/uploads/2020/08/kartinki-krutyh-mashin-57.jpg",
+    github: "https://github.com/rakeshsangem/portflio",
+    live: "https://www.rakeshsangem.me",
+  },
+  {
+    title: "Bankist",
+    description:
+      "Bankist is an online platform where user can access their bank account details, transfer money and much more.",
+    image:
+      "https://user-images.githubusercontent.com/107752425/205921327-16fa9da1-d602-4b18-8cce-6f80c4585fd2.png",
+    github: "https://github.com/rakeshsangem/bankist-application",
+    live: "https://bankist-application.vercel.app",
+  },
+  {
+    title: "Portfolio",
+    description:
+      "A portflio website of me buit using HTML, CSS, and JavaScript. I made to opnesource during hacktoberfest",
     image:
       "https://raw.githubusercontent.com/Valexr/Slidy/master/assets/static/flip.gif",
-    github: "https://github.com/Valexr/Slidy",
+    github: "https://github.com/rakeshsangem/portflio",
     live: "https://www.rakeshsangem.me",
   },
     {
-    title: "Comparison component",
+    title: "Bankist",
     description:
-      "Автоматическая и аналочная версия редактора специальных эффектов. Специальная разработка производилась для Компании - GSAP NEWS",
+      "Bankist is an online platform where user can access their bank account details, transfer money and much more.",
     image:
-      "https://raw.githubusercontent.com/Valexr/Compary/master/Screenshot.jpg",
-    github: "https://github.com/Valexr/Compary",
-    live: "https://valexr.github.io/Compary/",
+      "https://user-images.githubusercontent.com/107752425/205921327-16fa9da1-d602-4b18-8cce-6f80c4585fd2.png",
+    github: "https://github.com/rakeshsangem/bankist-application",
+    live: "https://bankist-application.vercel.app",
   },
     {
-    title: "15-puzzle game",
+    title: "Portfolio",
     description:
-      "Копия популярной Android игры - 15 Puzzle. Совмещенная с Adminer'om 6.4. Для работы требовалась так же статичная GET структура.",
+      "A portflio website of me buit using HTML, CSS, and JavaScript. I made to opnesource during hacktoberfest",
     image:
-      "https://ibb.co/2tHWkwg",
-    github: "https://github.com/Valexr/Notty",
-    live: "https://tagy.surge.sh/",
+      "https://user-images.githubusercontent.com/107752425/192083103-e773c142-6ed0-4223-8fca-62525c2f908a.png",
+    github: "https://github.com/rakeshsangem/portflio",
+    live: "https://www.rakeshsangem.me",
   },
 ];
+
